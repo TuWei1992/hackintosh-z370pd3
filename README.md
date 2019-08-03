@@ -1,14 +1,14 @@
 # 黑苹果 Hackintosh Z370P-D3 
 
 ### 功能:
--       USB:  OK
--     Sleep:  OK
--    iCloud:  OK  
--   AirDrop:  OK  
--   HandOff:  OK
-- Bluetooth:  OK
--     双硬解:  OK
--    Sensor:  OK
+-   Sleep: OK
+-   双硬解: OK
+-  iCloud: OK
+-  Sensor: OK
+- AirDrop: OK
+- HandOff: OK
+- USB Port: OK
+- Bluetooth: OK
 
 ### 配置: 
 - CPU:  i5-8600K 
@@ -50,15 +50,13 @@
 3. 变频貌似只有三档, 不影响使用就没有继续鼓捣
 
 ### 截图:
-<center>
-	![Img 8](doc/img-8.png)
-	![Img 9](doc/img-9.png)
-	![Img 11](doc/img-11.png)
-	![Img 1](doc/img-1.png)
-	![Img 2](doc/img-2.png)
-	![Img 3](doc/img-3.png)
-	![Img 4](doc/img-4.png)
-	![Img 5](doc/img-5.png)
-	![Img 6](doc/img-6.png)
-	![Img 7](doc/img-7.png)
-</center>
+![Img 8](doc/img-8.png)
+![Img 9](doc/img-9.png)
+![Img 11](doc/img-11.png)
+![Img 1](doc/img-1.png)
+![Img 2](doc/img-2.png)
+![Img 3](doc/img-3.png)
+![Img 4](doc/img-4.png)
+![Img 5](doc/img-5.png)
+![Img 6](doc/img-6.png)
+![Img 7](doc/img-7.png)
