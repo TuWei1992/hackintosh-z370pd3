@@ -42,7 +42,7 @@
 1. BIOS 设置参照 https://www.tonymacx86.com/threads/success-mojave-14-2-on-ga-z370p-d3-i5-8600k-intelhd630.268319/
 2. 为了防止U盘在系统唤醒后提示意外弹出, 需要从bios里面禁用xmp, 将速度调节到最高2666MHz, 然后从clover里进行xmpdetection=yes
 3. USB结合机箱的usb口使用Hackintool定制的, usbport 对应机型imac19,1
-4. 为了加载AppleLPC, clover里仿冒了芯片组型号为9cc3, https://www.tonymacx86.com/threads/pastrychefs-asus-rog-strix-z370-g-gaming-wi-fi-ac-build-w-i9-9900k-amd-vega-56.239969/page-223#post-1777761
+4. **为了修复偶尔的睡眠无法唤醒和完全使用`AptioMemoryFix-64.efi`, 需要禁用主板的`CFG Lock`, F5版本的BIOS中的CFG Lock偏移量为`0x585`, 具体设置方法参照 https://blog.xjn819.com/?p=317**
 
 ### ISSUE:
 1. 电源设置里勾选"唤醒以供网络访问"后, 再次睡眠唤醒WIFI速度会降低
